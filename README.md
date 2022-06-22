@@ -1,12 +1,3 @@
-# Doces e Sobremesas do Alex
+# QUEM SOU EU
 
-- 👋 Olá, eu sou o Alex e estou aqui para apresentar meu novo espaço de **divulgação de doces e sobremesas**.
-- 👀 Meu interesse é que você conheça as ***mais variadas opções de doces, sobremesas, bolos*** e muito mais.
-
-<img src="bolo1.jpg" alt="Texto alternativo" title="Avatar" />
-
-![imagem] https://www.tudogostoso.com.br/receita/29124-bolo-simples.html
-<!---
-alexnovaes22/alexnovaes22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Olá, eu sou o Prof. Alex, sou formado em duas áreas, Tecnologia da Informação e Gestão. Tenho Mestrado em Ensino e Tecnologia. Sou professor pela Secretaria da Educação e do Esporte (SEEDPR) e atuo também como professor no Ensino Superior. Sou casado e tenho dois filhos: Isadora e Murilo.
